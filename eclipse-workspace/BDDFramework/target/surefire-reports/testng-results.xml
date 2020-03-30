@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BDD Test Suite" duration-ms="6" started-at="2020-03-30T14:08:03Z" finished-at="2020-03-30T14:08:03Z">
+    <groups>
+    </groups>
+    <test name="Login and Update Profile Test" duration-ms="6" started-at="2020-03-30T14:08:03Z" finished-at="2020-03-30T14:08:03Z">
+    </test> <!-- Login and Update Profile Test -->
+  </suite> <!-- BDD Test Suite -->
+</testng-results>
